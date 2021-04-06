@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "title": "aidai",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mothers-day-flower-bouquet-1588610191.jpg?crop=1.00xw:0.892xh;0,0.108xh&resize=1200:*",
+      "description": "Flower Lover",
+      "id": 1
+    },
+    {
+      "title": "akniet ",
+      "image": "https://uploads-ssl.webflow.com/5f3579657fc55ba0f865b027/5f3579657fc55b369465b8f7_pink-flowers-700x371.jpg",
+      "description": "Rosses",
+      "id": 2
+    },
+    {
+      "title": "ernis",
+      "image": "https://www.elitetraveler.com/wp-content/uploads/2019/07/Screenshot-2020-05-12-at-15.10.34.png",
+      "description": "car lover",
+      "id": 3
+    },
+    {
+      "title": "ernis",
+      "image": "https://www.elitetraveler.com/wp-content/uploads/2019/07/Screenshot-2020-05-12-at-15.10.34.png",
+      "description": "car lover",
+      "id": 4
+    },
+    {
+      "title": "Nurbek",
+      "image": "https://www.focus2move.com/wp-content/uploads/2020/01/Tesla-Roadster-2020-1024-03.jpg",
+      "description": "red car lover",
+      "id": 5
+    },
+    {
+      "title": "Manas",
+      "image": "https://dota2ok.ru/wp-content/uploads/2017/05/SF.jpg",
+      "description": "Dota one love #dotalover",
+      "id": 6
+    }
+  ]
+}
